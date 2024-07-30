@@ -1,2 +1,2 @@
 # Test
-This is just the testing file.
+This is just the file for testing the function of Github.
